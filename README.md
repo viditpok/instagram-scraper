@@ -8,9 +8,9 @@ This script allows you to extract basic profile information from an Instagram ac
 2. Make sure you have Python installed.
 3. Install the required dependencies using the following command:
 
-'''
+```
 pip install instaloader
-'''
+```
 
 ## Usage
 
